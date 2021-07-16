@@ -10,3 +10,5 @@ My first repository
 ##I will also share this new knowledge with my collaborators
 
 I see it is so much better than just sharing files throught *dropbox*
+
+### Gosia was here ¯\_(ツ)_/¯
