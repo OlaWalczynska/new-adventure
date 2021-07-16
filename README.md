@@ -1,6 +1,8 @@
 # new-adventure
 My first repository
 
+Szymek was here
+
 #This is my first trial with github
 ##I am going to **use it** for
 *co-operate within my own project
